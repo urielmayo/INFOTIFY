@@ -1,0 +1,25 @@
+# Object files
+build/
+*.o
+
+# Library files
+libs/*
+*.a
+*.so
+
+# Executable files
+bin/
+program
+
+# Documentation files
+doxy/
+
+#visual studio
+.vscode/
+
+main.txt
+
+temp
+
+#media files
+media/
